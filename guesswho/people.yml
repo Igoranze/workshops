@@ -1,0 +1,172 @@
+alex:
+  sex: man
+  hair_color: black
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  moustache: True
+alfred:
+  sex: man
+  hair_color: red
+  eye_color: blue
+  nose_size: small
+  mouth_size: small
+  moustache: True
+anita:
+  sex: woman
+  hair_color: blond
+  eye_color: blue
+  nose_size: small
+  mouth_size: small
+  rosy_cheeks: True
+anne:
+  sex: woman
+  hair_color: black
+  eye_color: brown
+  nose_size: big
+  mouth_size: small
+bernard:
+  sex: man
+  hair_color: black
+  eye_color: brown
+  nose_size: big
+  mouth_size: small
+  hat: True
+bill:
+  sex: man
+  hair_color: red
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  bald: True
+  beard: True
+  rosy_cheeks: True
+charles:
+  sex: man
+  hair_color: blond
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  moustache: True
+claire:
+  sex: woman
+  hair_color: red
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  glasses: True
+  hat: True
+david:
+  sex: man
+  hair_color: blond
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  beard: True
+eric:
+  sex: man
+  hair_color: blond
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  hat: True
+frans:
+  sex: man
+  hair_color: red
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+george:
+  sex: man
+  hair_color: white
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  hat: True
+herman:
+  sex: man
+  hair_color: red
+  eye_color: brown
+  nose_size: big
+  mouth_size: big
+  bald: True
+joe:
+  sex: man
+  hair_color: blond
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  glasses: True
+maria:
+  sex: woman
+  hair_color: brown
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  hat: True
+max:
+  sex: man
+  hair_color: black
+  eye_color: brown
+  nose_size: big
+  mouth_size: big
+  moustache: True
+paul:
+  sex: man
+  hair_color: white
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  glasses: True
+peter:
+  sex: man
+  hair_color: white
+  eye_color: blue
+  nose_size: big
+  mouth_size: big
+philip:
+  sex: man
+  hair_color: black
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  beard: True
+  rosy_cheeks: True
+richard:
+  sex: man
+  hair_color: brown
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  beard: True
+  bald: True
+robert:
+  sex: man
+  hair_color: brown
+  eye_color: blue
+  nose_size: big
+  mouth_size: big
+  rosy_cheeks: True
+sam:
+  sex: man
+  hair_color: white
+  eye_color: brown
+  nose_size: small
+  mouth_size: small
+  glasses: True
+  bald: True
+susan:
+  sex: woman
+  hair_color: white
+  eye_color: brown
+  nose_size: small
+  mouth_size: big
+  beard: True
+  rosy_cheeks: True
+tom:
+  sex: man
+  hair_color: black
+  eye_color: blue
+  nose_size: small
+  mouth_size: small
+  glasses: True
